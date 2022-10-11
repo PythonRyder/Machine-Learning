@@ -1,0 +1,8 @@
+Decision Tree:
+
+	https://www.xoriant.com/blog/decision-trees-for-classification-a-machine-learning-algorithm
+
+	https://machinelearningknowledge.ai/decision-tree-classifier-in-python-sklearn-with-example/
+
+	https://medium.com/coders-camp/end-to-end-machine-learning-projects-with-source-code-c727119800de
+
